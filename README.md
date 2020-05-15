@@ -1,5 +1,5 @@
 # AdvancedFilterAutomationVBA
-Perform multiple Advanced Filter actions dynamically in Excel using VBA. Useful for visualizing data in Excel to be saved as a PDF for diplay purposes and sharing.
+Perform multiple Advanced Filter actions dynamically in Excel using VBA. Useful for visualizing data in Excel to be saved as a PDF for display purposes and sharing.
 
 In the example below, a manager has a table of employees and wants to visualize how their work is distributed across three projects.
 
